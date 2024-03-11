@@ -17,12 +17,12 @@ This Laravel project provides a simple yet powerful API for managing tasks. It a
 
 1. Clone the repository:
    ```
-   git clone https://yourrepository.com/yourproject.git
+   git clone https://github.com/alizadasaleh/laravel-task.git
    ```
 
 2. Change into the project directory:
    ```
-   cd yourproject
+   cd example-app
    ```
 
 3. Install dependencies:
