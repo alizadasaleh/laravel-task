@@ -112,11 +112,3 @@ curl -X GET http://localhost:8000/api/tasks
 ```
 
 Refer to the API Endpoints section for more examples.
-
-## Contributing
-
-We welcome contributions! Please open an issue or submit a pull request for any changes.
-
-## License
-
-This project is open-sourced software licensed under the [MIT license](LICENSE.md).
